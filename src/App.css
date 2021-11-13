@@ -10,7 +10,7 @@
   min-height: 60vh;
   border-radius: 15px;
   border: 2px solid black;
-  background-color: rgb(255, 251, 0);
+  background-color: grey;
   display: flex;
   flex-direction: column;
   justify-content: center;
@@ -20,7 +20,7 @@
   width: 80vw;
   min-height: 60vh;
   border-radius: 15px;
-  background-color: rgb(255, 251, 0);
+  background-color: grey;
   border: 2px solid black;
 }
 
