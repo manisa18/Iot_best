@@ -73,7 +73,7 @@
 
 .startHome button{
   display: flex;
-  background-color: rgb(75, 75, 235);
+  background-color: rgb(235, 26, 26);
   color: white;
 }
 #nextQuestion{
